@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto MongoDB_SQLServer", "Proyecto MongoDB_SQLServer\Proyecto MongoDB_SQLServer.csproj", "{C671B581-D100-4C11-B9A4-BDE4BEF79BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C671B581-D100-4C11-B9A4-BDE4BEF79BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C671B581-D100-4C11-B9A4-BDE4BEF79BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C671B581-D100-4C11-B9A4-BDE4BEF79BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C671B581-D100-4C11-B9A4-BDE4BEF79BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CA9535-44A8-40AA-A5ED-E8E81B36867A}
+	EndGlobalSection
+EndGlobal
